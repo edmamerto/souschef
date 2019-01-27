@@ -6,7 +6,7 @@ I used a virtual workstation that I setup with vagrant and virtualbox.
 ![simple chef architecture](simple-chef.png)
 
 ## Installation
-You need  and `vagrant` 
+You need `vagrant` 
 
 Vagrant
 - https://www.vagrantup.com/docs/installation/
