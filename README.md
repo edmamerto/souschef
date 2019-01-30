@@ -1,7 +1,7 @@
 # Sous-Chef
 > just my personal cookbook collection
 
-I used a virtual workstation that I setup with vagrant and virtualbox.
+I use a virtual workstation that I setup with vagrant and virtualbox.
 
 ![simple chef architecture](simple-chef.png)
 
