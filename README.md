@@ -1,5 +1,5 @@
 # Sous-Chef
-> just my personal cookbook collection
+> my personal cookbook collection
 
 I use a virtual workstation that I setup with vagrant and virtualbox.
 
